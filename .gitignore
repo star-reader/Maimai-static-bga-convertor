@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+output/
+output-*/
+.idea/
+.DS_Store
+previews/
