@@ -51,3 +51,6 @@ Windows 无需激活环境，将命令中的 `python` 换为 `.\.venv\Scripts\py
 替换已有 PV 时，先备份，再将生成的 `.dat` 复制覆盖到目标 `A000/MovieData`
 
 更多参数使用 `python bga.py <指令> --help` 查看
+
+## Reference
+【适用于完整包】压缩MovieData以节约储存空间 [Maimai MovieData Compressor](https://github.com/star-reader/Maimai-bga-moviedata-compressor)
